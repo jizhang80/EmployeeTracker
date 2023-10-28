@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "to view and manage the departments, roles, and employees in my company by command line tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jizhang80/EmployeeTracker.git"
+  },
+  "author": "Ji Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jizhang80/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/jizhang80/EmployeeTracker#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.2"
+  }
+}
