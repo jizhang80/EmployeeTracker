@@ -45,6 +45,16 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
 
+## process
+
+### departments
+![departments.jpg](./imgs/departments.jpg)
+### roles
+![roles.jpg](./imgs/roles.jpg)
+### employees
+![employees.jpg](./imgs/employees.jpg)
+
+
 ## Bonus
 
 Try to add some additional functionality to your application, such as the ability to do the following:  
