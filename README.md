@@ -2,7 +2,7 @@
 
 ## workthrough video link
 
-https://drive.google.com/file/d/1D_Y4obhsAQfsYFdYllCooKaE4LUQDI-g/view
+<https://drive.google.com/file/d/1D_Y4obhsAQfsYFdYllCooKaE4LUQDI-g/view>
 
 ## technical acceptance criteria:
 - Uses the inquirer package
