@@ -25,11 +25,11 @@ VALUES ("CEO", 1, 1),
 -- employee data
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Jimmy", "ZHANG", 1, 1),
-        ("Amanda", "M.", 2, 1),
-        ("Amy", "G.", 3, 1),
-        ("Bobby", "T.", 4, 3),
-        ("Cindy", "L.", 7, 1),
-        ("Jennifer", "L.", 8, 5),
-        ("Bill", "G.", 11, 2),
-        ("Elen", "S.", 12, 7),
-        ("Damian", "F.", 13, 7);
+        ("Amanda", "M", 2, 1),
+        ("Amy", "G", 3, 1),
+        ("Bobby", "T", 4, 3),
+        ("Cindy", "L", 7, 1),
+        ("Jennifer", "L", 8, 5),
+        ("Bill", "G", 11, 2),
+        ("Elen", "S", 12, 7),
+        ("Damian", "F", 13, 7);
